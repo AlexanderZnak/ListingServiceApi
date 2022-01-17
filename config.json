@@ -1,0 +1,10 @@
+{
+  "content_type": "application/x-www-form-urlencoded",
+  "client_id": "4e5d44e66a524ed3803d8720d6d77803",
+  "client_secret": "eef75d60b49e46e68bd03a79297a90c2",
+  "grant_type": "password",
+  "username": "srctest2",
+  "password": "TeSt!2#4",
+  "identity_server_url": "https://stage-id.awscalnp.manheim.com",
+  "listing_server_url": "https://stage-api.awscalnp.manheim.com/listing-service"
+}

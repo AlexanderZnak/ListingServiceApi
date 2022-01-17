@@ -1,0 +1,45 @@
+{
+  "origin": {
+    "city": "Townsend",
+    "state": "WI",
+    "zip": "54175"
+  },
+  "destination": {
+    "city": "Beverly Hills",
+    "state": "CA",
+    "zip": "90210"
+  },
+  "partnerReferenceId": "multi-car",
+  "trailerType": "OPEN",
+  "vehicles": [
+    {
+      "id": "5",
+      "year": 2008,
+      "make": "nissan",
+      "model": "altima",
+      "vehicleType": "CAR",
+      "qty": 1,
+      "wideLoad": false
+    },
+    {
+      "id": "6",
+      "year": 2014,
+      "make": "toyota",
+      "model": "camry",
+      "vehicleType": "CAR",
+      "qty": 1,
+      "wideLoad": true
+    }
+  ],
+  "hasInOpVehicle": false,
+  "availableDate": "2021-12-31",
+  "desiredDeliveryDate": "2021-12-31",
+  "price": {
+    "total": "1600",
+    "cod": {
+      "amount": "1600",
+      "paymentMethod": "CHECK",
+      "paymentLocation": "DELIVERY"
+    }
+  }
+}
